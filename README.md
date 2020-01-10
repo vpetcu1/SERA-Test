@@ -1,4 +1,4 @@
 # SERA-Test
 Test Repository for SERA
 
-Epic1-Feature1-Commit2
+Epic1-Merge Feature1 and 2
